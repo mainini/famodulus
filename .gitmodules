@@ -1,0 +1,9 @@
+[submodule "famodulus-server"]
+	path = famodulus-server
+	url = https://github.com/mainini/famodulus-server.git
+[submodule "famodulus-client"]
+	path = famodulus-client
+	url = https://github.com/mainini/famodulus-client.git
+[submodule "famodulus-demo"]
+	path = famodulus-demo
+	url = https://github.com/mainini/famodulus-demo.git
