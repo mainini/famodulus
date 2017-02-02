@@ -58,6 +58,10 @@ The demonstrator application should now be available at http://localhost:8080 wh
 
 # Version History
 
+## 1.0.5 (2017-02-02)
+
+* Fixed date in history
+
 ## 1.0.4 (2017-02-02)
 
 * Upgrade famodulus-client -> 1.1.0
