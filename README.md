@@ -1,6 +1,8 @@
 # Introduction
 
-famodulus is a system for research in outsourcing of modular exponentiation. It consists of three core components:
+famodulus is a system for research in outsourcing of modular exponentiation, mainly based on the research conducted in
+[Efficient and Secure Outsourcing of Modular Exponentiation](http://mainini.ch/data/efficient-secure-modular-exponentiation-outsourcing.pdf).
+It consists of three core components:
 
 * [famodulus-server](https://github.com/mainini/famodulus-server) - server for outsourcing big integer calculations
 * [famodulus-client](https://github.com/mainini/famodulus-client) - JavaScript library for the browser and node.js
@@ -57,6 +59,10 @@ After all components have been built, the system can now be used. Both servers (
 The demonstrator application should now be available at http://localhost:8080 while the server is running on port 8081.
 
 # Version History
+
+## 1.0.6 (2017-02-08)
+
+* Upgrade famodulus-client -> 1.1.1
 
 ## 1.0.5 (2017-02-02)
 
